@@ -28,3 +28,7 @@
 карточный дизайн ячейки (скругления, «карта»);
 анимация кнопки лайка (scale + spring);
 алерты при ошибках сети/данных.
+
+
+<img width="603" height="1311" alt="image" src="https://github.com/user-attachments/assets/a18a8948-b389-4b84-87b6-5f874fb595d2" />
+
